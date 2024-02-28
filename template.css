@@ -1,0 +1,53 @@
+@charset "utf-8";
+#contenedor {
+    height: 800px;
+    width: 100%;
+}
+
+#encabezado {
+    background-color: #EFA6A7;
+    height: 100px;
+    width: 100%;
+	text-align: center;
+}
+
+#encabezado2 {
+    background-color: #FBFBFB;
+    height: 500px;
+    width: 100%;
+}
+#contenido {
+    background-color: #FFBABB;
+    height: 100px;
+    width: 25%;
+}
+#contenido {
+    background-color: #E3B1B1;
+    float: left;
+    height: 806px;
+    width: 25%;
+}
+#Pie {
+    background-color: #E08688;
+    float: left;
+    height: 100px;
+    width: 75%;
+}
+#pie {
+    background-color: #F3AEAE;
+    clear: both;
+    height: 200px;
+    width: 100%;
+}
+#Contenido2 {
+    background-color: #FFFFFF;
+    float: left;
+    width: 75%;
+    height: 807px;
+	
+}
+#Pie {
+    background-color: #EF9B9C;
+    height: 156px;
+    width: 100%;
+}
